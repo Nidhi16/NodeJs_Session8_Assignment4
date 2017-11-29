@@ -1,0 +1,22 @@
+{
+  "name": "nid-uuid-generator",
+  "version": "1.0.0",
+  "description": "This is acadgild assignment to generate uuid by using RFC4122 module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nidhi16/NodeJs_Session8_Assignment4.git"
+  },
+  "author": "Nidhi Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nidhi16/NodeJs_Session8_Assignment4/issues"
+  },
+  "homepage": "https://github.com/Nidhi16/NodeJs_Session8_Assignment4#readme",
+  "dependencies": {
+    "rfc4122": "^1.0.5"
+  }
+}
